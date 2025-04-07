@@ -1,0 +1,11 @@
+Django==4.2
+djangorestframework==3.14.0
+django-cors-headers==3.14.0
+djangorestframework-simplejwt==5.2.2
+celery==5.2.7
+redis==4.5.1
+torch>=1.13.0        # Asegúrate de instalar la versión de torch apropiada para tu sistema (CPU o GPU)
+demucs==3.0.4        # Alternativa a Spleeter compatible con Python 3.11
+music21==6.7.1
+python-decouple
+django-axes

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Entorno virtual
+env/
+env39/
+
+# Archivos de Django
+db.sqlite3
+media/
+
+# Otros archivos de sistema
+.DS_Store
+
+estructura.txt
